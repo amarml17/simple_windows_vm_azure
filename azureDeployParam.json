@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "GEN-UNIQUE"
+      "value": "vmuser"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "Vishwanath@17"
     },
     "dnsLabelPrefix": {
-      "value": "GEN-UNIQUE"
+      "value": "testvm01"
     }
   }
 }
